@@ -1,7 +1,5 @@
 import 'package:mobx/mobx.dart';
 
-import 'package:mobx/mobx.dart';
-
 class Controller {
   var counter = Observable(0);
   Action increment;
